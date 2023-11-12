@@ -1,11 +1,12 @@
 ---
-title:  "Levenshtein Distance Formula"
-excerpt: "Recreating the Levenshtein Distance Algorithm in Google Sheets in response to ztiaa's challenge."
+title: Levenshtein Distance Formula
+excerpt: Recreating the Levenshtein Distance Algorithm in Google Sheets in response to ztiaa's challenge.
 header:
-  teaser: "assets/images/distance.jpg"
+  teaser: assets/images/distance.jpg
 tags:
   - formula
 toc: true
+date: 2023-02-15
 ---
 
 ### Introduction
@@ -190,7 +191,7 @@ This is the formula I developed. For readability, I've beautified it and redefin
 ```
 It looks a bit intimidating when it's all spaced out like this, in my opinion, so here it is compressed.
 
-`=let(source,"chat",target,"act",index(reduce({0,sequence(1,len(target))},sequence(len(source)),lambda(previous,current,scan(#N/A,sequence(1,len(target)+1),lambda(left,n,min(index(previous,n)+1,ifna(left+1),iferror(index(previous,n-1)+not(exact(mid(source,current,1),mid(target,n-1,1))))))))),len(target)+1))`
+```=let(source,"chat",target,"act",index(reduce({0,sequence(1,len(target))},sequence(len(source)),lambda(previous,current,scan(#N/A,sequence(1,len(target)+1),lambda(left,n,min(index(previous,n)+1,ifna(left+1),iferror(index(previous,n-1)+not(exact(mid(source,current,1),mid(target,n-1,1))))))))),len(target)+1))```
 
 ### Explanation
 
