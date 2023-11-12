@@ -1,9 +1,11 @@
 ---
 title: LAMBDA Manifesto
+excerpt: The most powerful function in Google Sheets.
 tags:
   - lambda
   - formula
 toc: true
+header: '{"teaser":"assets/images/sword.JPG"}'
 ---
 
 ### Introduction

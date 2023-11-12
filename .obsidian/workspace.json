@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/How to use the special features.md",
+                "file": "_notes/LAMBDA Manifesto.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/How to use the special features.md",
+                "file": "_notes/LAMBDA Manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/How to use the special features.md",
+                "file": "_notes/LAMBDA Manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/How to use the special features.md"
+                "file": "_notes/LAMBDA Manifesto.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "af95cadd2943e2ef",
   "lastOpenFiles": [
-    "_notes/How-to-setup-this-site.md",
-    "_notes/2023-02-14-crash-bug.md",
     "_notes/2023-02-15-levenshtein-distance.md",
-    "_notes/How to use the special features.md",
-    "_notes/how-markdown-is-rendered.md",
     "_notes/LAMBDA Manifesto.md",
+    "_notes/2023-02-14-crash-bug.md",
+    "_notes/How to use the special features.md",
+    "_notes/How-to-setup-this-site.md",
+    "CNAME",
+    "_notes/how-markdown-is-rendered.md",
     "_notes/Obsidian integration.md",
     "assets/img/profile.png",
     "assets/img/sword.JPG",
