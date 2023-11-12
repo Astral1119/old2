@@ -8,7 +8,7 @@ tags:
 toc: true
 date: 2023-02-14
 ---
-#### Update:
+### Update
 
 Google has since been made aware of the issue and has remedied it.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Levenshtein Distance.md",
+                "file": "_notes/Crash Bug.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Levenshtein Distance.md",
+                "file": "_notes/Crash Bug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Levenshtein Distance.md",
+                "file": "_notes/Crash Bug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Levenshtein Distance.md"
+                "file": "_notes/Crash Bug.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "af95cadd2943e2ef",
   "lastOpenFiles": [
+    "_notes/Levenshtein Distance.md",
     "_notes/LAMBDA Manifesto.md",
     "_notes/Crash Bug.md",
     "{{.md",
-    "_notes/Levenshtein Distance.md",
     "about.md",
     "dates.md",
     "index.md",
