@@ -146,15 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af95cadd2943e2ef",
+  "active": "89485fbf033fa4fa",
   "lastOpenFiles": [
+    "assets/img/profile.png",
+    "assets/img/sword.JPG",
+    "assets/img/logo.jpg",
+    "assets/img/fallback.jpg",
+    "assets/img/distance.jpg",
+    "assets/img/crashbug2.png",
+    "assets/img/crashbug1.png",
+    "assets/img/broken.jpg",
+    "assets/img/avatar.png",
+    "_notes/2023-04-09-lambda-manifesto.md",
+    "_notes/2023-02-15-levenshtein-distance.md",
+    "_notes/2023-02-14-crash-bug.md",
     "_notes/how-markdown-is-rendered.md",
     "_notes/Obsidian integration.md",
     "_notes/How-to-setup-this-site.md",
     "_notes/How to use the special features.md",
     "assets/img/favicon.png",
-    "assets/img/screenshot.png",
-    "assets/img/profile.png",
-    "assets/img/fork_button.jpg"
+    "assets/img/screenshot.png"
   ]
 }
