@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/LAMBDA Manifesto.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/LAMBDA Manifesto.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/LAMBDA Manifesto.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/LAMBDA Manifesto.md"
+                "file": "about.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "af95cadd2943e2ef",
   "lastOpenFiles": [
-    "_notes/2023-02-15-levenshtein-distance.md",
+    "dates.md",
+    "index.md",
+    "notes.md",
     "_notes/LAMBDA Manifesto.md",
+    "_notes/2023-02-15-levenshtein-distance.md",
     "_notes/2023-02-14-crash-bug.md",
     "_notes/How to use the special features.md",
     "_notes/How-to-setup-this-site.md",

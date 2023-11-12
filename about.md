@@ -4,11 +4,8 @@ title: About
 permalink: /about/
 content-type: eg
 ---
+Welcome to the Astral Café!
 
-Welcome to [[notenote.link::https://github.com/Maxence-L/notenote.link]], a fork of [[Simply Jekyll::https://github.com/raghuveerdotnet/simply-jekyll]]!
+I'm Astral, a 17-year-old based in the United States. I work with Google Sheets sometimes, specializing in formulae. I'm currently studying data science and enjoy exciting chess games and fluffy romance manga.
 
-I used Obsidian for the last 6 months, to keep track of all of the things I was learning while pivoting my career from Economics to Data Science.
-
-200 notes later, I felt that my Obsidian space was getting cramped and I began to yearn for a way to access my notes everywhere. Simply-Jekyll appeared as the most satisfactory tool on the web, as I needed wikilinks, search, LateX, and code highlighting. 
-
-A little bit of dev work and polishing was need to make it compatible with my Obsidian notes. However, the template is now mature enough, so go on an [[How to setup this site\|give it a try!]]
+You can find my Google Sheets portfolio [here.](https://docs.google.com/spreadsheets/d/1hIG_JbgGw7hbJmct2re2ySFZaC-LfrRA_IZN8Ghi2gY/edit?usp=sharing) If you want to get in contact with me, you can email me at [astral@astral.cafe](mailto:astral@astral.cafe) or via Discord at [astral.cafe](https://discordapp.com/users/365169403316142090).
