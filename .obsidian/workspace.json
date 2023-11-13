@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "14949091145ae4fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_docs/QUERY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,23 +194,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "89485fbf033fa4fa",
+  "active": "14949091145ae4fb",
   "lastOpenFiles": [
-    "_docs",
-    "untitled folder",
-    "_docs/QUERY.md",
-    "README.md",
-    "Drafts/A Better Curriculum.md",
-    "Untitled.md",
-    "Drafts",
+    "_notes/Levenshtein Distance.md",
     "_notes/LAMBDA Manifesto.md",
     "_notes/Crash Bug.md",
-    "_notes/Levenshtein Distance.md",
-    "{{.md",
-    "about.md",
+    "_docs/QUERY.md",
     "dates.md",
     "index.md",
+    "tags.md",
+    "about.md",
     "notes.md",
+    "README.md",
+    "docs.md",
+    "Untitled.md",
+    "_docs",
+    "untitled folder",
+    "Drafts/A Better Curriculum.md",
+    "Drafts",
+    "{{.md",
     "_notes/How to use the special features.md",
     "_notes/How-to-setup-this-site.md",
     "CNAME",

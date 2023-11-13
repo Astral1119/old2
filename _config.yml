@@ -59,4 +59,5 @@ defaults:
       type: docs
     values:
       layout: post
+      permalink: /docs/:title
       content-type: docs
