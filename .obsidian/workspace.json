@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drafts/A Better Curriculum.md",
+                "file": "_notes/LAMBDA Manifesto.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_docs/QUERY.md",
+                "file": "_notes/Crash Bug.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e74905c94e03931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/QUERY.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes.md",
+                "file": "_notes/QUERY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes.md",
+                "file": "_notes/QUERY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes.md"
+                "file": "_notes/QUERY.md"
               }
             }
           },
@@ -194,20 +206,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "14949091145ae4fb",
+  "active": "8e74905c94e03931",
   "lastOpenFiles": [
-    "index.md",
-    "docs.md",
+    "tags.md",
     "notes.md",
+    "_notes/QUERY.md",
+    "_notes/Crash Bug.md",
+    "docs.md",
+    "_notes/LAMBDA Manifesto.md",
+    "index.md",
     "_docs/QUERY.md",
     "_notes/Levenshtein Distance.md",
-    "_notes/LAMBDA Manifesto.md",
-    "_notes/Crash Bug.md",
     "dates.md",
-    "tags.md",
     "about.md",
     "README.md",
-    "Untitled.md",
     "_docs",
     "untitled folder",
     "Drafts/A Better Curriculum.md",
