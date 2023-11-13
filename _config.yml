@@ -51,13 +51,3 @@ defaults:
     values:
       layout: post
       content-type: notes
-<<<<<<< HEAD
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: post
-      permalink: /docs/:title
-      content-type: docs
-=======
->>>>>>> parent of a87f1a7 (Trying to add a Docs section.)
