@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_docs/QUERY.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_docs/QUERY.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_docs/QUERY.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_docs/QUERY.md"
+                "file": "index.md"
               }
             }
           },
@@ -194,12 +194,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "14949091145ae4fb",
+  "active": "89485fbf033fa4fa",
   "lastOpenFiles": [
+    "_docs/QUERY.md",
     "_notes/Levenshtein Distance.md",
     "_notes/LAMBDA Manifesto.md",
     "_notes/Crash Bug.md",
-    "_docs/QUERY.md",
     "dates.md",
     "index.md",
     "tags.md",

@@ -1,5 +1,5 @@
 <!-- Parse internal links, external links, transclusions etc and manipuate the content to reflect it accordingly -->
-{%- if page.content-type == "notes" -%}
+{%- if page.content-type == "notes" or page.content-type == "docs" -%}
 <ul class="tags">
     {%- if page.state != nil and page.state != empty -%}
     <li><a href="javascript:void(0)" class="tag"><b>State:</b> <i>{{page.state | capitalize}}</i></a></li>
@@ -50,15 +50,16 @@
     {%- assign result_notes = site.notes | where: 'title',internal_link -%}
     {%- assign result_posts = site.posts | where: 'title',internal_link -%}
     {%- assign result_pages = site.pages | where: 'title',internal_link -%}
+    {%- assign result_docs = site.docs | where: 'title',internal_link -%}
 
     {%- assign internal_links = internal_links | append: link_joiner_delimiter | append: internal_link -%}
-    {%- assign internal_urls = internal_urls | append: link_joiner_delimiter | append: result_notes[0].url | append: result_posts[0].url | append: result_pages[0].url -%}
+    {%- assign internal_urls = internal_urls | append: link_joiner_delimiter | append: result_notes[0].url | append: result_posts[0].url | append: result_pages[0].url | append: result_docs[0].url -%}
 
     {%- endif -%}
 
     {%- if alt_link -%}
     {%- assign internal_links_alt = internal_links_alt | append: link_joiner_delimiter | append: internal_link -%}
-    {%- assign internal_urls_alt = internal_urls_alt | append: link_joiner_delimiter | append: result_notes[0].url | append: result_posts[0].url | append: result_pages[0].url -%}
+    {%- assign internal_urls_alt = internal_urls_alt | append: link_joiner_delimiter | append: result_notes[0].url | append: result_posts[0].url | append: result_pages[0].url | append: result_docs[0].url -%}
     {%- assign internal_titles_alt = internal_titles_alt | append: link_joiner_delimiter | append: alt_link -%}
 
     {%- if header_link -%}
